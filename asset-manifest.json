@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dogApi/static/js/main.c0043349.js",
+    "static/js/787.37408586.chunk.js": "/dogApi/static/js/787.37408586.chunk.js",
+    "index.html": "/dogApi/index.html",
+    "main.c0043349.js.map": "/dogApi/static/js/main.c0043349.js.map",
+    "787.37408586.chunk.js.map": "/dogApi/static/js/787.37408586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c0043349.js"
+  ]
+}
